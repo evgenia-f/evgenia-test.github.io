@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+<channel>
+  <title>Economia e Mercati - Proiezioni di Borsa</title>
+  <atom:link href="https://www.proiezionidiborsa.it/category/economia-e-mercati/feed/" rel="self" type="application/rss+xml" />
+  <link>https://www.proiezionidiborsa.it</link>
+  <description></description>
+  <lastBuildDate>Thu, 09 Jun 2022 13:17:15 +0000</lastBuildDate>
+  <language>it-IT</language>
+  <sy:updatePeriod>
+  hourly  </sy:updatePeriod>
+  <sy:updateFrequency>
+  1 </sy:updateFrequency>
+  <generator>https://wordpress.org/?v=5.9.3</generator>
+<image>
+  <url>https://www.proiezionidiborsa.it/wp-content/uploads/2020/11/cropped-pdb-fav-2020-32x32.png</url>
+  <title>Economia e Mercati - Proiezioni di Borsa</title>
+  <link>https://www.proiezionidiborsa.it</link>
+  <width>32</width>
+  <height>32</height>
+</image>
+  <item>
+    <title>Tutti guardano al rialzo dei tassi da parte della Banca centrale europea e Lagarde conferma le attese</title>
+    <link>https://www.proiezionidiborsa.it/tutti-guardano-al-rialzo-dei-tassi-da-parte-della-banca-centrale-europea-e-lagarde-conferma-le-attese/</link>
+    <dc:creator><![CDATA[Rossana Prezioso]]></dc:creator>
+    <pubDate>Thu, 09 Jun 2022 13:15:20 +0000</pubDate>
+        <category><![CDATA[Economia e Mercati]]></category>
+    <category><![CDATA[ftse mib]]></category>
+    <guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=304819</guid>
+<description>
+<p>I listini in Europa viaggiano deboli e Piazza Affari poco prima delle 15 <a href="https://it.tradingview.com/chart/?symbol=TVC%3AFTMIB" target="_blank" rel="noopener">first</a></p>
+<Origin Href="Link">www.nordicnanovector.com%2F&amp;data=04%7C01%7CMark.Swallow</Origin>
+<a href="www.nordicnanovector.com%2F&amp;data=04%7C01%7CMark.Swallow" target="_blank" rel="noopener">second</a>
+<a href="www.nordicnanovector.com/data=04%7C01%7CMark.Swallow" target="_blank" rel="noopener">third</a>
+<a href="https://news.cision.com/se/magnolia-bostad-ab/r/magnolia-bostad-har-forvarvat-mark-i-svedala—skane%2Cc3427375" target="_blank" rel="noopener">fours</a>
+</description>
+      </item>
+  </channel>
+</rss>
